@@ -2,7 +2,14 @@
 
 Local WAV analysis utility for Cardputer Zero.
 
-This public repository contains install instructions and binary package downloads. The development source lives in the private/local NoirSonance Gitea repository.
+NoirSonance Check is a lightweight local audio inspection tool for quick WAV checks on tiny devices and Linux desktops. It is built for offline use when you want a fast read on a file without opening a full studio session.
+
+Features:
+
+- Local WAV analysis workflow.
+- Compact readout for handheld Cardputer Zero screens.
+- Desktop mode for larger Linux displays.
+- Offline-first operation with simple keyboard controls.
 
 ## Screenshots
 
@@ -51,5 +58,3 @@ Public downloads are architecture-specific binary builds:
 
 - `amd64` for regular Linux desktops and laptops.
 - `arm64` for Cardputer Zero and 64-bit Raspberry Pi OS.
-
-The public `.deb` files do not contain the app's readable Python source files.
