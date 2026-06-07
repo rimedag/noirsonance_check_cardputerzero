@@ -1,0 +1,18 @@
+Origin: NoirSonance
+Label: NoirSonance Check
+Suite: stable
+Codename: stable
+Date: Sun, 07 Jun 2026 08:34:32 GMT
+Architectures: amd64 arm64
+Components: main
+Description: NoirSonance Check public APT repository
+MD5Sum:
+ 84c5afa8c931a4554ed4ff5d704bad16              593 main/binary-amd64/Packages
+ 4cf439a17aa2c9f5dd0b0886578ef9d0              413 main/binary-amd64/Packages.gz
+ 4a9c4fc9eb5956d07daaa0779ab46626              593 main/binary-arm64/Packages
+ 576276b1bc0936a9c4444a1eafeb2d49              414 main/binary-arm64/Packages.gz
+SHA256:
+ 6759df3f9b59e8bcfab7765b5ba78d3efe71d02c886ca636bc2ac822c90b238d              593 main/binary-amd64/Packages
+ b36d89cc8f5222f882eed158142254d8375b38271a3a131e9e214431a94802d1              413 main/binary-amd64/Packages.gz
+ 39e9c7f93ade4ee32490e89f1f726c4c47f240b4dcedb1c2dc69db376e84cb04              593 main/binary-arm64/Packages
+ 987a8a50fef03c9514995b2accc29ce7b264171abe3917f81fbe69cb263e494a              414 main/binary-arm64/Packages.gz

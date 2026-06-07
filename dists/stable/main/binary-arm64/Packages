@@ -1,0 +1,13 @@
+Package: noirsonance-check
+Version: 0.1.0-noirsonance1
+Architecture: arm64
+Maintainer: NoirSonance <noreply@noirsonance.local>
+Section: utils
+Priority: optional
+Depends: libc6 (>= 2.36), zlib1g, fonts-dejavu-core, libx11-6, libxext6, libxft2, libfontconfig1
+Description: Local WAV analysis utility for Cardputer Zero
+Filename: pool/main/n/noirsonance-check/noirsonance-check_0.1.0-noirsonance1_arm64.deb
+Size: 28325216
+MD5sum: 6aefaad8adb81effdde871cde350850b
+SHA1: 38673183c7b39b76f464ba31ff5c3ec839219851
+SHA256: 5034dc6e7c3f52490fd9bbb8293f882cad1073638cd14f053f49600648641e0e
