@@ -4,6 +4,11 @@ Local WAV analysis utility for Cardputer Zero.
 
 This public repository contains install instructions and binary package downloads. The development source lives in the private/local NoirSonance Gitea repository.
 
+## Screenshots
+
+![NoirSonance Check ready](assets/screenshots/ready.png)
+![NoirSonance Check analysis](assets/screenshots/analysis.png)
+
 ## Install
 
 Use the install helper:
