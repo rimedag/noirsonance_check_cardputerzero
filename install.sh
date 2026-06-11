@@ -28,7 +28,7 @@ curl -fL "$url" -o "${tmp_dir}/${asset}"
 echo "Installing NoirSonance Check..."
 (
     cd "$tmp_dir"
-    sudo apt install "./${asset}"
+    sudo apt install -y "./${asset}"
 )
 
 echo "Done. Launch with: noirsonance-check-desktop, noirsonance-check-cardputerzero, or noirsonance-check"
