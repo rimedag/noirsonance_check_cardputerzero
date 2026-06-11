@@ -2,17 +2,17 @@ Origin: NoirSonance
 Label: NoirSonance Check
 Suite: stable
 Codename: stable
-Date: Sun, 07 Jun 2026 08:34:32 GMT
+Date: Thu, 11 Jun 2026 08:18:36 GMT
 Architectures: amd64 arm64
 Components: main
 Description: NoirSonance Check public APT repository
 MD5Sum:
- 84c5afa8c931a4554ed4ff5d704bad16              593 main/binary-amd64/Packages
- 4cf439a17aa2c9f5dd0b0886578ef9d0              413 main/binary-amd64/Packages.gz
- 4a9c4fc9eb5956d07daaa0779ab46626              593 main/binary-arm64/Packages
- 576276b1bc0936a9c4444a1eafeb2d49              414 main/binary-arm64/Packages.gz
+ 6ccfbede54b9b5d26dedeecd8a1909d8              593 main/binary-amd64/Packages
+ c9aca1fc0c463ed3eac4471883fe6c4a              413 main/binary-amd64/Packages.gz
+ 08970ef12ff9fd1a4eb9d8eb294a1e88              593 main/binary-arm64/Packages
+ 4bff892f081822acf489cbd2fbc5ecc0              412 main/binary-arm64/Packages.gz
 SHA256:
- 6759df3f9b59e8bcfab7765b5ba78d3efe71d02c886ca636bc2ac822c90b238d              593 main/binary-amd64/Packages
- b36d89cc8f5222f882eed158142254d8375b38271a3a131e9e214431a94802d1              413 main/binary-amd64/Packages.gz
- 39e9c7f93ade4ee32490e89f1f726c4c47f240b4dcedb1c2dc69db376e84cb04              593 main/binary-arm64/Packages
- 987a8a50fef03c9514995b2accc29ce7b264171abe3917f81fbe69cb263e494a              414 main/binary-arm64/Packages.gz
+ b4dbc81f4addc04a06f20b1fe7c55893a292e38cab5fa1beaed85d3de24effdb              593 main/binary-amd64/Packages
+ 31cd5c94365afe110a7f177c048fdc4015c84d5d6e03527595e724d36c2877ac              413 main/binary-amd64/Packages.gz
+ 246a1fcfc234b4a089b6e28803884ca8e2391522eed66a8bbc0a39694ef6fadc              593 main/binary-arm64/Packages
+ d0d475f1afcbf5cb38d09095932b13acd0e80d94f60f0fccdfa69bcbc517f761              412 main/binary-arm64/Packages.gz
